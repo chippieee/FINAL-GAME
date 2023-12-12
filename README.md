@@ -1,4 +1,4 @@
-#FINAL_GAME
+# FINAL_GAME
 #FROZEN
 
 import pygame
